@@ -7,3 +7,11 @@ A git egy verziókezelő rendszer
 - git commit
 - git push
 - git clone
+- git status
+- git log
+- git pull
+
+
+
+## cheat sheet 
+[Megnyitás](https://education.github.com/git-cheat-sheet-education.pdf)
